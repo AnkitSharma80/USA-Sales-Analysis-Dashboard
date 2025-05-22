@@ -2,7 +2,9 @@
 
 An interactive dashboard to analyze sales and profit data across different regions in the USA.
 
-![Dashboard Screenshot](USA%20Sales%20Screenshot.png)
+## 📸 Dashboard Preview
+
+![USA Sales Dashboard](https://raw.githubusercontent.com/AnkitSharma80/USA-Sales-Analysis-Dashboard/main/USA%20Sales%20Screenshot.png)
 
 ---
 
