@@ -2,12 +2,6 @@
 
 An interactive dashboard to analyze sales and profit data across different regions in the USA.
 
-## 📸 Dashboard Preview
-
-![USA Sales Dashboard](https://raw.githubusercontent.com/AnkitSharma80/USA-Sales-Analysis-Dashboard/main/USA%20Sales%20Screenshot.png)
-
----
-
 ## 🔍 Key Insights
 
 - 💰 **Total Sales:** 1.32M+
@@ -34,3 +28,7 @@ An interactive dashboard to analyze sales and profit data across different regio
 - Power BI (Visualization)
 - DAX (KPIs and calculations)
 - Excel/CSV (Data source)
+
+## 📸 Dashboard Preview
+
+![USA Sales Dashboard](https://github.com/AnkitSharma80/USA-Sales-Analysis-Dashboard/blob/main/USA_Sales_Dashboard/USA%20Sales%20Screenshot.png)
